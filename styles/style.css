@@ -11,7 +11,7 @@
 }
 /* nav style */
 .header {
-  background-color: rgba(78, 71, 255, 1%);
+  background-color: rgba(78, 71, 255, 3%);
 }
 nav {
   display: flex;
@@ -118,3 +118,55 @@ nav ul li {
 /* .u2-1 {
   margin: 135px 0px 50px 0px;
 } */
+
+/* cards//4th part */
+
+.card-box {
+  /* display: flex; */
+  /* background-color: bisque; */
+  margin-top: 137px;
+  margin-right: 149px;
+  margin-left: 151px;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  /* border: 2px solid; */
+  /* box-shadow: 2px; */
+}
+.card {
+  background-color: rgba(255, 255, 255, 50%);
+  /* border: 2px solid; */
+  border: none;
+  border-radius: 14px;
+  margin-right: 20px;
+  padding: 24px;
+}
+.card-box-h3 {
+  /* display: inline; */
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  margin: 137px 149px 50px 151px;
+  margin-bottom: 50px;
+  /* align-items: center; */
+}
+.pic {
+  display: flex;
+  border-top: 24px;
+}
+/* box shaddo */
+.lakha {
+  margin: 68px 24px 24px 24px;
+}
+
+.headers {
+  font-size: 24px;
+  font-weight: 800;
+}
+.avatar {
+  border-radius: 60px;
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
