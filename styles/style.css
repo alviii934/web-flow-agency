@@ -52,8 +52,9 @@ nav ul li {
 .button-space {
   margin-bottom: 152px;
 }
-.header {
+.bg {
   background-image: url("../Assets/Hero-bg.png");
+  background-repeat: none;
 }
 .header-father {
   margin: 0px 150px 158px 150px;
@@ -61,4 +62,24 @@ nav ul li {
 .header-father2 {
   margin: 309px 267.5px 152px 267.5px;
   text-align: center;
+}
+
+/* banner//2nd part */
+.banner {
+  display: flex;
+  margin: 0px 159px 116px 141px;
+  justify-content: space-between;
+}
+.bc1 {
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+.bc2 {
+  /* color: #252432; */
+  color: rgba(37, 36, 50, 50%);
+  font-size: 24px;
+}
+.webflow-img {
+  border-radius: 48px;
 }
