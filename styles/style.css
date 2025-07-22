@@ -170,3 +170,38 @@ nav ul li {
   margin-right: 12px;
   margin-bottom: 6px;
 }
+
+/* imeages with some upper text//5th part */
+.h3-focus {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 71px 312px 0px 312px;
+  padding-top: 71px;
+}
+.cont {
+  text-align: center;
+}
+
+.template {
+  margin-top: 20px;
+}
+.g-button {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: 182px;
+  margin-right: 182px;
+}
+.webflows-img {
+  text-align: center;
+  /* display: flex;
+  justify-content: center; */
+  margin: 0px 150px 71px 320px;
+  /* padding: 0px 0px 0px 150px; */
+  border-radius: 48px;
+}
+.conf {
+  margin: 137px 149px 92.3 151px;
+  /* background-color: #4e47ff; */
+  background-color: rgba(0, 0, 0, 50%);
+  background-color: white;
+}
