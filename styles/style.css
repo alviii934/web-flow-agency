@@ -260,3 +260,32 @@ form textarea {
   font-size: 20px;
   padding: 20px 379px 20px 32px;
 }
+
+/* 7th part */
+.all-footer {
+  /* background-color: aqua; */
+  margin: 104px 455px 103px 454px;
+  background-color: #ffffff;
+  /* height: 428px;
+  width: 1440px; */
+}
+.f-list {
+  color: rgba(137, 135, 161, 100%);
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 48px;
+}
+
+.h33 {
+  text-align: center;
+  font-size: 100px;
+  color: #4e47ff;
+  margin: 50px;
+  margin: 0px 120px 8px 120px;
+  /* padding-bottom: 8px; */
+}
+.lekhalekhi-f {
+  text-align: center;
+  color: rgba(137, 135, 161, 100%);
+}
