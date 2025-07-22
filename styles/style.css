@@ -198,10 +198,65 @@ nav ul li {
   margin: 0px 150px 71px 320px;
   /* padding: 0px 0px 0px 150px; */
   border-radius: 48px;
+  /* margin-right: 299px;
+  margin-left: 301px; */
 }
 .conf {
   margin: 137px 149px 92.3 151px;
   /* background-color: #4e47ff; */
   background-color: rgba(0, 0, 0, 50%);
   background-color: white;
+}
+
+/* form part//6th part */
+
+.form-part {
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: 92.3px 150px 14px 150px;
+  /* padding: 130px 230px; */
+  display: flex;
+  gap: 100px;
+  justify-content: space-around;
+}
+/* .form {
+  width: 50%;
+} */
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  height: 64px;
+  border-radius: 10px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
+
+.h1-touch {
+  font-size: 97px;
+  font-weight: bold;
+  padding: 200px 115px 200px 150px;
+  gap: 115px;
+}
+.form {
+  display: block;
+  /* align-items: center; */
+  /* width: 50%; */
+  padding-right: 150px;
+  gap: 115px;
+  /* justify-content: space-between; */
+}
+.level {
+  font-size: 18px;
+  font-weight: 700;
+  /* border: 20 px 20px 20px 20px; */
+}
+.t {
+  font-size: 20px;
+  padding: 20px 379px 20px 32px;
 }
