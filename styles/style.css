@@ -170,7 +170,6 @@ nav ul li {
   margin-right: 12px;
   margin-bottom: 6px;
 }
-
 /* imeages with some upper text//5th part */
 .h3-focus {
   font-size: 50px;
@@ -193,14 +192,19 @@ nav ul li {
 }
 .webflows-img {
   text-align: center;
-  /* display: flex;
-  justify-content: center; */
-  margin: 0px 150px 71px 320px;
-  /* padding: 0px 0px 0px 150px; */
+  display: flex;
+  justify-content: center;
+  margin: 20px 150px 71px 1500px;
+  padding: 0px 0px 71px 0px;
   border-radius: 48px;
-  /* margin-right: 299px;
-  margin-left: 301px; */
+  margin-right: 299px;
+  margin-left: 301px;
 }
+.webflows-img img {
+  border-radius: 48px;
+  border: none;
+}
+
 .conf {
   margin: 137px 149px 92.3 151px;
   /* background-color: #4e47ff; */
@@ -288,4 +292,7 @@ form textarea {
 .lekhalekhi-f {
   text-align: center;
   color: rgba(137, 135, 161, 100%);
+}
+.for-bg-white {
+  background-color: #ffffff;
 }
